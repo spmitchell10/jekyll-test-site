@@ -1,5 +1,5 @@
 ---
-title: Welcome to Jekyll!
+title: Jerk Wod!
 date: 2018-03-23 19:09:00 Z
 categories:
 - jekyll
