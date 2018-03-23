@@ -1,5 +1,5 @@
 ---
-title: Jerk Wod!
+title: Jack Knob!
 date: 2018-03-23 19:09:00 Z
 categories:
 - jekyll
