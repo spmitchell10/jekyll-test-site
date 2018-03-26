@@ -14,7 +14,7 @@ description: Write an awesome description for your new site here. You can edit t
   results) and in your feed.xml site description.
 baseurl: ''
 url: ''
-twitter_username: jekyllrb
+twitter_username: spmitchell_
 github_username: jekyll
 markdown: kramdown
 theme: minima
